@@ -1,24 +1,11 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+TThis project was done as a technical test for the company today you work .
 
-Things you may want to cover:
+* Ruby version  ruby 3.0.2
 
-* Ruby version
+* System dependencies 
 
-* System dependencies
+* Database sqlite3
 
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+* that create new user, Use the route: http://localhost:3000/users
